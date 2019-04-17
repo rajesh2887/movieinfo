@@ -20,3 +20,4 @@ Rated : PG-13
 Released on : 19 Dec 1997
 Director Name : James Cameron
 Rating : { Source : Rotten Tomatoes Value : 89% }
+
