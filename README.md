@@ -1,4 +1,4 @@
-# movieinfo Get movie information from OMDB
+# movieinfo :Get movie information from OMDB
 Follow below steps to get movie info and rating from http://www.omdbapi.com/ OMDB API
 
 pull the Docker image using below command:
