@@ -16,10 +16,18 @@ Ex : Titanic
 Output :
 
 Enter movie name: titanic
+
 Movie Name: Titanic
+
 Year : 1997
+
 Rated : PG-13
+
 Released on : 19 Dec 1997
+
 Director Name : James Cameron
+
 Rating : { Source : Rotten Tomatoes Value : 89% }
+
+
 
